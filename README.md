@@ -15,10 +15,10 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
+A four card feature section challenge from frontendmentor
 ### The challenge
 
 Users should be able to:
@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://khun111.github.io/four-card-feature-section)
+- Live Site URL: [Add live site URL here](https://khun111.github.io/four-card-feature-section)
 
 ### Built with
 
