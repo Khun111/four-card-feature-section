@@ -1,0 +1,71 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 2em;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 1em;
+    place-items: center;
+    margin-top: 2.25em;
+  }
+
+  .grid-item {
+    background-color: hsl(0, 0%, 98%);
+    width: Min(20rem, 80%);
+    height: 15rem;
+    padding: 1.5em;
+  }
+  .flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+  }
+  .flex-item2 {
+    align-self: flex-end;
+  }
+  .flex-item1 > p {
+    margin-top: 0.7em;
+  }
+
+  .grid-item1 {
+    grid-row: 1 / 3;
+    border-top: 0.3rem solid hsl(180, 62%, 55%);
+    border-top-left-radius: 0.3rem;
+    border-top-right-radius: 0.53em;
+  }
+
+  .grid-item2 {
+    grid-area: 1 / 3 / 3 / 4;
+    border-top: 0.3rem solid hsl(212, 86%, 64%);
+    border-top-left-radius: 0.3rem;
+    border-top-right-radius: 0.53em;
+  }
+
+  .grid-item3 {
+    border-top: 0.3rem solid hsl(0, 78%, 62%);
+    border-top-left-radius: 0.3rem;
+    border-top-right-radius: 0.53em;
+  }
+
+  .grid-item4 {
+    border-top: 0.3rem solid hsl(34, 97%, 64%);
+    border-top-left-radius: 0.3rem;
+    border-top-right-radius: 0.53em;
+  }
+
+  header {
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+  }
+  header > p {
+    margin-top: 1em;
+  }
