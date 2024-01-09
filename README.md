@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://khun111.github.io/four-card-feature-section)
-- Live Site URL: [Add live site URL here](https://khun111.github.io/four-card-feature-section)
+- Solution URL: [Click here](https://khun111.github.io/four-card-feature-section)
+- Live Site URL: [Click here](https://khun111.github.io/four-card-feature-section)
 
 ### Built with
 
@@ -56,7 +56,7 @@ I would like to explore css grids more and the world of media queries for respon
 
 ### Useful resources
 
-- [Lear Css Grid](https://www.learncssgrid.com) - This helped me with workin with css grids. I really loved this platform and will use it going forward.
+- [Learn Css Grid](https://www.learncssgrid.com) - This helped me with workin with css grids. I really loved this platform and will use it going forward.
 
 ## Author
 
