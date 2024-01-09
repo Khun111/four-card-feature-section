@@ -21,6 +21,7 @@
     width: Min(20rem, 80%);
     height: 15rem;
     padding: 1.5em;
+    box-shadow: 0 0.3em 0 0 hsl(229, 6%, 66%, 0.3);
   }
   .flex {
     display: flex;

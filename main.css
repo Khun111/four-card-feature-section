@@ -9,7 +9,8 @@
   }
 
   body {
-    background-color: hsl(229, 6%, 66%);
+    background-color: hsl(229, 6%, 66%, 0.1);
+    color: hsl(234, 12%, 34%);
   }
   .container {
     width: 80%;
